@@ -1,7 +1,7 @@
 # tiny-chess-01 entry: deterministic alpha-beta chess engine (MIT, see LICENSE)
 import lzma,base64
 exec(lzma.decompress(base64.b85decode(
-b"{Wp48S^xk9=GL@E0stWa761SMbT8$j;1|CM<Xr$Xn@VT6Qap3u7A1{kq%B%ml_lZYC*w-2GY~Xnv#^MCCvb0tt=XK}vP=5%!e%`h"
+b"{Wp48S^xk9=GL@E0stWa761SMbT8$j;20YT`CR}sn@VT6Qap3u7A1{kq%B%ml_lZYC*w-2GY~Xnv#^MCCvb0tt=XK}vP=5%!e%`h"
 b"(RZ_f2#a7wG#o5!^oQrQZXEj#mC#|j-nc+g2?nvEzvKZ0AHI@dsE7&sak%0-1E}*2+NIi%zO%RY1-qeKM{1-$cL3&wx^iEJ=B^#_"
 b"Ev8(hahcpy3qC_2Z2d%#{=$6mOG;?G>;;T6|6e@NqO`r{WMM&<wDSSVZ#VF|5`1)#HbjwnUaYnJ^5%>U$qq`Hxjq4kAKgvGx~v-y"
 b"uBoMjtf|=W8u@YZ|JyUau6<w4Czcg&6tUY#sB+(mRxrh9wkrl%22c9qU(8{Z<U&=8mJEjidR7$<qGJ8YSF3?y0F<y@FCr}Q1idOf"
@@ -28,10 +28,10 @@ b"fQNgTR*Kp9E#$q6rpY_1p2RRqcg3hvs*VGclsiVG-m0MBqm=ww5s_O6S==ngu;JHiYP_g6)q#X3j_V
 b"PC^Dw{htta<0kk%A?31utR!$_3TxxOpyh3lVU(DB*Z4eSk+mxI1j2<enO^6luh-`t4n_4Rb<<x)3UG<JqT}}Y`aY|R>lE}UkSx`p"
 b"t^5zPGws(@uyixpbS@DU%g0(|fHY9dpr^PLydgP4fRN5Ov*7$UPD^333N#hjt)~8U_Q6$0C+)WV6jC+&ORgU-74@|DU>lXqBYUGf"
 b"309sTNPY;D`}CBr;uqez{PVAA8ad!D6m_xl0LFrLZdnrcTuF}}EnS?WWtm4HyA>xP1;G+pz=MRbMp8%%{H!<=E){qEjvmn-vm}`f"
-b"r)e`Wk!XOxL?{!a{6ek$wjw3ku&3LAo<x0R5|AA6Ut(pm<OXPymu&l0Bze%@x#}#{^a69A9^T_|+IT&Qlck-81Yp2<PpD|)dVAW8"
-b"E2@8DrC(*9A`>Zm4Yia+%K!dYZJfMY2<m>W;EmxNERu{()zD6=tn3?K7hjkZ8|J7Jz328);N0d}b`eAEd$YLr)9KdZ4g-o>ym=^?"
-b"<Iebirg{NJ;>)YA!jMLF{(_0-{C&BRP?QMR0k>^40GL#5vEvb&QqV8a19^lC@Z%*kUXsovY->>>mNbEt37ZqjA-!GKw<fV9NQN0u"
-b"ngL|`La)^YuKuW#<BNxEquLf0g59)1B(I=}8Fa3=sm^c7ti5GzUngw8DH#N*CfP*u17J!8l@dj<i9!(lUWRNK-02)c@8v9tOIGxN"
-b"+p2PsqN54O(5B6y`qKq-vYhDCFOfuuTPEDro%&RA{pE6P-+akzx}?%QATSp{+!@ZpC7#k(MF+mL78@GVBffBb!yudlmaiGuATM1J"
-b"Id`A{lz3n~MPLxM00Dp$z%Kv*oF3T?vBYQl0ssI200dcD"
+b"r)e`Wk!XOxL?{!a{6ek$wjw3ku^+b+Av6XqkzJ7OxI@>+NqB(6paQ8+WRQ^U<UFCZ)BS}bo_<s?Zv838lb>#x)4Tau!;5M)QLnla"
+b"M}!FB*S4we4!~QCCpz&HP;5vkieoI~;Uhzt`<0(4IfYHeYW?L+g;`Vv?_@$KNlbb|n`}9zdc-LxJ^HdMv*Z!Xs~<Bed(T)0Y|1kq"
+b"v&X2jh1U^TxVG8}ai-tQyY(9|<w8O9f}q>=gn3|tBUQO=S}Qv|&69M5%$+nB`=P{bDdis5!f&ynCq2f@0SdwXa#}AA&TFyq0@s+O"
+b"n1rc=s%FkhklF~`6o7;UMhSVBm|<vzr4FypYM!by(3HFiYz1`?0KLn?wd<<>Az9<JCK32*<{wVFh00X~Mt$0LHNu5(<_qubmH8z^"
+b"6bWFVo&{_(OM}L)U;eaYJwma{7_-M0z8JUUE~wL?M2?30p*qupFN5}MZ?E+OSkhD@Cq?8o8YqZ_S^3w-&M6O9R3IiC4@_avNTB3w"
+b"6kWIKPOSEKw(jaUj<&{5ym_EU(N$6a00000DZd}C-FhzY00EU0oG<_Y<Jn`#vBYQl0ssI200dcD"
 )))
